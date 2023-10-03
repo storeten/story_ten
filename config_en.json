@@ -1,0 +1,767 @@
+
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://images.unsplash.com/photo-1602934445884-da0fa1c9d3b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1916&q=80",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "text_justify"
+      },
+      "showMenu": true,
+      "showSearch": true,
+      "showNotification": true,
+      "showCart": false
+    },
+    {
+      "line": false,
+      "type": "icon",
+      "showShortDescription": true,
+      "marginRight": 10,
+      "imageSpacing": 0,
+      "spacing": 11,
+      "radius": 30,
+      "labelFontSize": 12,
+      "separateWidth": 19,
+      "noBackground": false,
+      "marginX": 0,
+      "marginLeft": 18,
+      "marginY": 0,
+      "layout": "category",
+      "paddingX": 0,
+      "imageBorderStyle": "solid",
+      "size": 1,
+      "hideTitle": false,
+      "marginBottom": 10,
+      "horizontalItem": false,
+      "wrap": true,
+      "items": [
+
+        {
+          "image": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "gid://shopify/Collection/461847200058",
+          "title": "Men",
+          "colors": [
+            "#3E6AB5"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "gid://shopify/Collection/461852344634",
+          "title": "Women",
+          "colors": [
+            "#3CC2BF"
+          ],
+          "productType": false
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "category": "gid://shopify/Collection/461999964474",
+          "title": "Kids",
+          "colors": [
+            "#53A2CC"
+          ],
+          "productType": false
+        }
+      ],
+      "marginTop": 10,
+      "paddingY": 0
+    },
+    {
+      "parallax": false,
+      "doubleTapToFullScreen": false,
+      "isHorizontal": false,
+      "fit": "fill",
+      "isBlur": false,
+      "parallaxImageRatio": 1.2,
+      "showNumber": false,
+      "design": "default",
+      "showBackground": false,
+      "radius": 0,
+      "enableTimeIndicator": true,
+      "height": 0.3,
+      "intervalTime": 10,
+      "padding": 0,
+      "upHeight": 0,
+      "pageIndicatorType": "line",
+      "isSlider": true,
+      "isSoundOn": false,
+      "enableParallax": false,
+      "autoPlayVideo": false,
+      "layout": "bannerImage",
+      "marginBottom": 0,
+      "autoPlay": true,
+      "items": [
+        {
+          "image": "https://images.unsplash.com/photo-1528977695568-bd5e5069eb61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "name": "Men",
+          "category": "gid://shopify/Collection/461847200058",
+          "video": ""
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "name": "",
+          "category": "gid://shopify/Collection/461852344634",
+          "video": ""
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1502781252888-9143ba7f074e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "category": "gid://shopify/Collection/461999964474",
+          "video": ""
+        }
+      ],
+      "marginTop": 0
+    },
+    {
+      "showCartIcon": true,
+      "imageBoxfit": "scaleDown",
+      "showStockStatus": true,
+      "hideEmptyProductLayout": false,
+      "showCountDown": false,
+      "parallax": false,
+      "columns": 3,
+      "hideStore": false,
+      "vPadding": 2,
+      "showQuantity": false,
+      "showHeart": false,
+      "hMargin": 6,
+      "parallaxImageRatio": 1.2,
+      "showCartButtonWithQuantity": false,
+      "vMargin": 0,
+      "showOnlyImage": false,
+      "onSale": false,
+      "productType": false,
+      "image": "",
+      "productListItemHeight": 125,
+      "showCartIconColor": false,
+      "hPadding": 6,
+      "hidePrice": false,
+      "rows": 1,
+      "enableBottomAddToCart": true,
+      "layout": "twoColumn",
+      "enableRating": true,
+      "imageRatio": 1.2,
+      "borderRadius": 3,
+      "hideTitle": false,
+      "cardDesign": "card",
+      "backgroundRadius": 10,
+      "isSnapping": true,
+      "showCartButton": false,
+      "name": "",
+      "cartIconRadius": 9,
+      "enableAutoSliding": false,
+      "category": "gid://shopify/Collection/461847200058",
+      "hideEmptyProductListRating": false
+    },
+    {
+      "layout": "recentView",
+      "name": "Recent View"
+    },
+    {
+      "showCartIcon": true,
+      "imageBoxfit": "cover",
+      "showStockStatus": true,
+      "hideEmptyProductLayout": false,
+      "showCountDown": false,
+      "parallax": false,
+      "columns": 3,
+      "hideStore": false,
+      "vPadding": 2,
+      "showQuantity": false,
+      "showHeart": false,
+      "hMargin": 6,
+      "parallaxImageRatio": 1.2,
+      "showCartButtonWithQuantity": false,
+      "vMargin": 0,
+      "showOnlyImage": false,
+      "onSale": false,
+      "productType": false,
+      "image": "",
+      "productListItemHeight": 125,
+      "showCartIconColor": false,
+      "hPadding": 6,
+      "hidePrice": false,
+      "rows": 1,
+      "enableBottomAddToCart": true,
+      "layout": "threeColumn",
+      "enableRating": true,
+      "imageRatio": 1.2,
+      "borderRadius": 3,
+      "hideTitle": false,
+      "cardDesign": "card",
+      "backgroundRadius": 10,
+      "isSnapping": false,
+      "showCartButton": false,
+      "name": "Features Products",
+      "cartIconRadius": 9,
+      "enableAutoSliding": false,
+      "hideEmptyProductListRating": false
+    },
+    {
+      "name": "Men Collections",
+      "layout": "card",
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "contain",
+      "imageRatio": 1.2,
+      "hMargin": 6,
+      "vMargin": 0,
+      "hPadding": 9,
+      "vPadding": 0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "cardDesign": "card",
+      "borderRadius": 3,
+      "category": "gid://shopify/Collection/461847200058",
+      "image": "",
+      "backgroundRadius": 10,
+      "showCountDown": false,
+      "onSale": false,
+      "hideEmptyProductListRating": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "hideEmptyProductLayout": false,
+      "productListItemHeight": 96,
+      "enableAutoSliding": false,
+      "productType": false
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": {
+      "enableOnTop": false,
+      "color": "00000",
+      "radiusTopLeft": 0,
+      "paddingRight": 0,
+      "radiusTopRight": 0,
+      "TabBarIndicator": {
+        "strokeWidth": null,
+        "color": null,
+        "horizontalPadding": null,
+        "topRightRadius": null,
+        "tabPosition": "bottom",
+        "bottomRightRadius": null,
+        "bottomLeftRadius": null,
+        "topLeftRadius": null,
+        "paintingStyle": null,
+        "distanceFromCenter": null,
+        "radius": null,
+        "verticalPadding": null,
+        "height": null
+      },
+      "showMinimize": false,
+      "marginRight": 0,
+      "enableDivider": true,
+      "paddingBottom": 0,
+      "indicatorStyle": "none",
+      "enable": true,
+      "radiusBottomRight": 0,
+      "iconSize": 28,
+      "showFloatingClip": true,
+      "paddingTop": 0,
+      "isSafeArea": true,
+      "TabBarFloating": {
+        "elevation": null,
+        "color": null,
+        "width": null,
+        "floatingType": "rectangle",
+        "location": null,
+        "isCoverMode": false,
+        "position": null,
+        "notchMargin": 4,
+        "radius": null,
+        "height": null
+      },
+      "showFloating": false,
+      "colorActiveIcon": "ff030403",
+      "colorCart": null,
+      "radiusBottomLeft": 0,
+      "marginLeft": 0,
+      "colorIcon": null,
+      "marginBottom": 0,
+      "paddingLeft": 0,
+      "marginTop": 0
+    },
+    "FontFamily": "Roboto",
+    "FontHeader": "Raleway",
+    "ProductDetail": "simpleType",
+    "MainColor": "ff2e3c90",
+    "ShowChat": true,
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "pos": 100,
+      "icon": "home",
+      "key": "yl1bo0v8cs"
+    },
+    {
+      "layout": "category",
+      "parallaxImageRatio": 1.2,
+      "fontFamily": "CupertinoIcons",
+      "remapCategories": [
+        {
+          "parent": "gid://shopify/Collection/399678669049",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/1-b.png?v=1678738785",
+          "category": "gid://shopify/Collection/399819604217",
+          "name": "Food Flavor and Grocery"
+        },
+        {
+          "parent": "gid://shopify/Collection/399819604217",
+          "category": "gid://shopify/Collection/399811576057"
+        },
+        {
+          "parent": "gid://shopify/Collection/399819604217",
+          "category": "gid://shopify/Collection/399811510521"
+        },
+        {
+          "parent": "gid://shopify/Collection/399819604217",
+          "category": "gid://shopify/Collection/406219325689"
+        },
+        {
+          "parent": "gid://shopify/Collection/399819604217",
+          "category": "gid://shopify/Collection/406565519609"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399811870969"
+        },
+        {
+          "parent": "gid://shopify/Collection/406324674809",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/Daily_Hair_Care.jpg?v=1678738474",
+          "category": "gid://shopify/Collection/399811707129",
+          "name": "Daily Hair Care"
+        },
+        {
+          "parent": "gid://shopify/Collection/406324674809",
+          "category": "gid://shopify/Collection/400419193081"
+        },
+        {
+          "parent": "gid://shopify/Collection/406229352697",
+          "category": "gid://shopify/Collection/406228697337"
+        },
+        {
+          "parent": "gid://shopify/Collection/399811707129",
+          "category": "gid://shopify/Collection/406228238585"
+        },
+        {
+          "parent": "gid://shopify/Collection/399811707129",
+          "category": "gid://shopify/Collection/406322839801"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/406322774265"
+        },
+        {
+          "parent": "gid://shopify/Collection/406324674809",
+          "category": "gid://shopify/Collection/406222307577"
+        },
+        {
+          "parent": "gid://shopify/Collection/406229352697",
+          "category": "gid://shopify/Collection/406228467961"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336602361",
+          "category": "gid://shopify/Collection/406322872569"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/406222799097"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/406565781753"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/406222995705"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399812329721",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/5-b.png?v=1678738143",
+          "name": "Heath Care"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/406223257849"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812264185"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399818981625"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399812362489"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399812395257"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/403856195833"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/6-b.png?v=1678738265",
+          "category": "gid://shopify/Collection/399812460793"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/403173933305"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406224339193"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406229254393"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406224404729"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819178233"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819079929"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406224568569"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819211001"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819014393"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/401971904761"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406224961785"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/406224896249"
+        },
+        {
+          "parent": "gid://shopify/Collection/399668642041",
+          "category": "gid://shopify/Collection/406229352697",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/Men_care.jpg?v=1678743114"
+        },
+        {
+          "parent": "gid://shopify/Collection/406229352697",
+          "category": "gid://shopify/Collection/406228861177"
+        },
+        {
+          "parent": "gid://shopify/Collection/406229352697",
+          "category": "gid://shopify/Collection/406228795641"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/4-b.png?v=1678738330",
+          "category": "gid://shopify/Collection/406226370809"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812165881"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812198649"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812428025"
+        },
+        {
+          "parent": "gid://shopify/Collection/400564125945",
+          "category": "gid://shopify/Collection/406336602361",
+          "image": "https://cdn.shopify.com/s/files/1/0660/7775/3593/collections/7-b.png?v=1674822592"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336602361",
+          "category": "gid://shopify/Collection/406615064825"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336602361",
+          "category": "gid://shopify/Collection/406565585145"
+        },
+        {
+          "name": "ALL",
+          "image": "https://i.imgur.com/08oxFpT.png",
+          "category": "gid://shopify/Collection/400599744761",
+          "parent": "gid://shopify/Collection/400599843065"
+        },
+        {
+          "parent": "gid://shopify/Collection/400599843065",
+          "category": "gid://shopify/Collection/401579507961"
+        },
+        {
+          "parent": "gid://shopify/Collection/400599843065",
+          "category": "gid://shopify/Collection/400599843065"
+        },
+        {
+          "parent": "gid://shopify/Collection/400599843065",
+          "category": "gid://shopify/Collection/400599384313"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819636985"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819374841"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812460793",
+          "category": "gid://shopify/Collection/399819243769"
+        },
+        {
+          "parent": "gid://shopify/Collection/400599843065",
+          "category": "gid://shopify/Collection/399812493561"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812133113"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399812067577"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399811969273"
+        },
+        {
+          "parent": "gid://shopify/Collection/399811707129",
+          "category": "gid://shopify/Collection/399811477753"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399811936505"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399811805433"
+        },
+        {
+          "parent": "gid://shopify/Collection/406229352697",
+          "category": "gid://shopify/Collection/399811739897"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812296953",
+          "category": "gid://shopify/Collection/399622603001"
+        },
+        {
+          "parent": "gid://shopify/Collection/400599843065",
+          "category": "gid://shopify/Collection/399457648889"
+        },
+        {
+          "parent": "gid://shopify/Collection/399819604217",
+          "category": "gid://shopify/Collection/399811412217"
+        },
+        {
+          "parent": "gid://shopify/Collection/399812100345",
+          "category": "gid://shopify/Collection/399811608825"
+        },
+        {
+          "parent": "gid://shopify/Collection/399811707129",
+          "category": "gid://shopify/Collection/406322938105"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/403165905145"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/404180074745"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/406228992249"
+        },
+        {
+          "parent": "gid://shopify/Collection/406336504057",
+          "category": "gid://shopify/Collection/404518371577"
+        },
+        {
+          "parent": "gid://shopify/Collection/406324674809",
+          "category": "gid://shopify/Collection/406336831737"
+        }
+      ],
+      "fullscreen": false,
+      "pos": 200,
+      "parallax": false,
+      "defaultTab": false,
+      "icon": "rectangle_grid_1x2",
+      "categories": [],
+      "categoryLayout": "card",
+      "key": "ro3v47mwuv"
+    },
+    {
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "size": 24,
+      "pos": 300,
+      "icon": "search",
+      "key": "t7ahhdlxan"
+    },
+    {
+      "layout": "cart",
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": false,
+      "pos": 400,
+      "defaultTab": false,
+      "icon": "bag",
+      "key": "tmy07z83wt"
+    },
+    {
+      "key": "6ohgysmgb4",
+      "layout": "profile",
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "defaultTab": false,
+      "fullscreen": false,
+      "settings": [
+        "biometrics",
+        "wishlist",
+        "notifications",
+        "currencies",
+        "darkTheme",
+        "order",
+        "rating",
+        "privacy",
+        "about",
+        "language"
+      ],
+      "subGeneralSetting": {
+        "about": {
+          "enableClose": false,
+          "webViewMode": false,
+          "webUrl": "https://www.s-amden.com/pages/about-us",
+          "enableBackward": true,
+          "requiredLogin": false,
+          "script": "",
+          "enableForward": false
+        },
+        "privacy": {
+          "enableClose": false,
+          "webViewMode": false,
+          "webUrl": "https://www.s-amden.com/pages/privacy-policy",
+          "enableBackward": true,
+          "requiredLogin": false,
+          "script": "",
+          "enableForward": false
+        }
+      },
+      "drawerIcon": {
+        "fontFamily": "CupertinoIcons",
+        "icon": "text_justify"
+      }
+    }
+  ],
+  "Drawer": {
+    "filter": 0,
+    "logoConfig": {
+      "width": 190,
+      "height": 93,
+      "marginLeft": 5,
+      "marginRight": 0,
+      "marginTop": 33,
+      "marginBottom": 6,
+      "boxFit": "contain"
+    },
+    "enable": true,
+    "logo": "https://images.unsplash.com/photo-1602934445884-da0fa1c9d3b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1916&q=80",
+    "subDrawerItem": {},
+    "safeArea": false,
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "type": "categories",
+        "show": true
+      },
+      {
+        "type": "cart",
+        "show": true
+      },
+      {
+        "type": "profile",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "key": "lnwsp6mufp"
+  },
+  "AppBar": {}
+}
