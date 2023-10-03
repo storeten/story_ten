@@ -128,10 +128,7 @@
       "name": "اخر ما تم زيارته",
       "layout": "recentView"
     },
-    {
-      "name": "منشورات المدونة لدينا",
-      "layout": "blog"
-    },
+
     {
       "name": "مجموعات جديدة",
       "layout": "staggered",
